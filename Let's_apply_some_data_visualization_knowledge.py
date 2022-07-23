@@ -13,7 +13,7 @@ import seaborn as sns
 # In[2]:
 
 
-df = pd.read_csv('titanic-passengers.csv')
+df = pd.read_csv('titanic.csv')
 
 
 # In[3]:
